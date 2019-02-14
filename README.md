@@ -13,7 +13,9 @@ This the repository of our Heatmap-Guided Deep Kinship Family Classification in 
 2. Put the training.list and val.list on 
 
 <b>Replicate the 2nd challenge of RFIW (https://web.northeastern.edu/smilelab/RFIW2019/) 
+  
 python DFC.py --test=1
   
-<b> Train </b>
+<b> Train on your own dataset </b>
+
 python DFC.py --test=0
