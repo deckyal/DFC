@@ -14,8 +14,8 @@ This repository holds :
 
 <b>Preparations</b>
 
-1. Put the FIW data on images/
-2. Put the test_no_labels.list on the main folder :DFC/ (ex : /DFC/images/FIDs/F0001/MID1)
+1. Put the FIW data on images/ (ex : /DFC/images/FIDs/F0001/MID1)
+2. Put the test_no_labels.list on the main folder :DFC/ 
 3. Run the LandmarkingHeatmap to get the corresponding denoised image and the facial heatmaps
 
 <b>Replicate the 2nd challenge of RFIW (https://web.northeastern.edu/smilelab/RFIW2019/) </b>
