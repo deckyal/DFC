@@ -28,7 +28,7 @@ The corresponding CSV will be on the ./models
   
 <b>Preparations</b>
 
-1. Put the FIW data on imagesNew/ (ex : /DFC/images/FIDs/F0001/MID1)
+1. Put the FIWNews data on images/ (ex : /DFC/images/FIDsNew/F0001/MID1)
 2. Run the LandmarkingHeatmap to get the corresponding denoised image and the facial heatmaps
   
 python ReproduceFIW.py -testFold=0
