@@ -26,7 +26,7 @@ python Reproduce.py
 
 The corresponding CSV will be on the ./models
 
-<b>Replicate the 5 cross validation test of Family classifiaiton in the wild (FIW) https://web.northeastern.edu/smilelab/fiw/benchmarks.html </b>
+<b>Replicate the 5 cross validation test of Family classification in the wild (FIW) https://web.northeastern.edu/smilelab/fiw/benchmarks.html </b>
   
 <b>Preparations</b>
 
