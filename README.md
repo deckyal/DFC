@@ -1,5 +1,5 @@
 # DFC
-This the repository of our Coming Soon
+This the repository of our Heatmap-Guided Balanced Deep Convolution Networks for Family Classification in the Wild.
 
 <b>Requirements : </b>
 1. PyTorch GPU  https://pytorch.org/
@@ -39,4 +39,4 @@ python ReproduceFIW.py -testFold=0
 -testFold signifies the fold test (0~4). The corresponding CSV will be on the ./models
 
 Citation : 
-Coming soon
+D. Aspandi, O. Pujol, and X. Binefa. Heatmap-Guided Balanced Deep Convolution Networks for Family Classification in the Wild. In Recognizing Families In the Wild (RFIW) workshop in conjunction with FG 2019, In Press
