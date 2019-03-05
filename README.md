@@ -4,7 +4,9 @@ This the repository of our Coming Soon
 <b>Requirements : </b>
 1. PyTorch GPU  https://pytorch.org/
 2. Tensorflow GPU https://www.tensorflow.org/install
-3. RFIW Dataset : from https://competitions.codalab.org/competitions/20196#participate-get_data (you may need to register)
+3. FIW Dataset 
+    a. : from https://competitions.codalab.org/competitions/20196#participate-get_data (you may need to register)
+    b. original data from https://web.northeastern.edu/smilelab/fiw/download.html
   
 This repository holds : 
 1. The image normalizer from : https://github.com/deckyal/FADeNN
@@ -29,6 +31,7 @@ The corresponding CSV will be on the ./models
 <b>Preparations</b>
 
 1. Put the FIWNews data on images/ (ex : /DFC/images/FIDsNew/F0001/MID1)
+2. Download the five validation split from : https://web.northeastern.edu/smilelab/fiw/download.html and put on the /DFC/cl-info folder
 2. Run the LandmarkingHeatmap to get the corresponding denoised image and the facial heatmaps
   
 python ReproduceFIW.py -testFold=0
