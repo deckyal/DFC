@@ -40,4 +40,5 @@ python ReproduceFIW.py
 The corresponding CSV will be on the ./models
 
 Citation : 
-D. Aspandi, O. Pujol, and X. Binefa. Heatmap-Guided Balanced Deep Convolution Networks for Family Classification in the Wild. In Recognizing Families In the Wild (RFIW) workshop in conjunction with FG 2019, In Press.
+
+Heatmap-Guided Balanced Deep Convolution Networks for Family Classification in the Wild. [In Recognizing Families In the Wild (RFIW) workshop in conjunction with FG 2019, 2019 May 14, Lille, France] 
